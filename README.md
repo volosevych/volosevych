@@ -1,4 +1,6 @@
-<h2> Hi, I'm Anastasia Volosevych! <img src="https://giphy.com/embed/IzL0gtAuERKuESGN1t" width="50"></h2> 
+<h2> Hi, I'm Anastasia Volosevych! <img src="https://giphy.com/gifs/pink-paw-awh-IzL0gtAuERKuESGN1t" width="50"></h2> 
+
+<!-- <iframe src="https://giphy.com/embed/IzL0gtAuERKuESGN1t" width="480" height="427" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pink-paw-awh-IzL0gtAuERKuESGN1t">via GIPHY</a></p> -->
 <!-- - 🔭 I’m currently working on ...  -->
 - 🌱 I’m currently learning React.js
 <!-- - 👯 I’m looking to collaborate on ... -->
