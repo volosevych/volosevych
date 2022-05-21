@@ -1,5 +1,4 @@
-### Privet, I'm Anastasia Volosevych 👋
-
+<h2> Hi, I'm Anastasia Volosevych! <img src="https://giphy.com/embed/IzL0gtAuERKuESGN1t" width="50"></h2> 
 <!-- - 🔭 I’m currently working on ...  -->
 - 🌱 I’m currently learning React.js
 <!-- - 👯 I’m looking to collaborate on ... -->
