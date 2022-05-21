@@ -6,16 +6,6 @@ const ukrainian = {
   code: [Javascript, HTML, SASS, CSS],
   tools: [React, Redux, Node, Styled-Components],
   extentions: [Video Games, Cooking, Swimming]
-<!--   architecture: ["microservices", "event-driven", "design system pattern"], -->
-  
-<!--   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      }, -->
-                      
-                      
-<!--  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript" -->
 }
 ```
 
