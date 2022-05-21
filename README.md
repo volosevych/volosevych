@@ -1,7 +1,5 @@
 <h2> Hi, I'm Anastasia Volosevych! <img src="https://media.giphy.com/media/j31GvPjFaHgmZJgkn6/giphy.gif" width="50"></h2>
 
-💙💛
-
 ```javascript
 const anastasia = {
   pronouns: "she" | "her",
