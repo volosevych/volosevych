@@ -1,6 +1,4 @@
-Hi, I'm Anastasia Volosevych! <img src="https://giphy.com/embed/IzL0gtAuERKuESGN1t" width="480" height="427" frameBorder="0" class="giphy-embed" allowFullScreen>
-
-<p><a href="https://giphy.com/gifs/pink-paw-awh-IzL0gtAuERKuESGN1t">via GIPHY</a></p>
+<h2> Hi, I'm Anastasia Volosevych! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!--  -->
 <!-- - 🔭 I’m currently working on ...  -->
