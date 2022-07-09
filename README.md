@@ -7,6 +7,8 @@ const anastasia = {
   tools: [React, Redux, Node, Styled-Components, API],
   
   loves: [Video Games, Cooking, Swimming]
+  
+  portfolio: [https://volosevych.github.io/portfolio/]
 }
 ```
 
